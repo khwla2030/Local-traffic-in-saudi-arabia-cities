@@ -1,15 +1,16 @@
 # Project 1: Driving Licenses, Traffic Accidents and Casualties Analysis
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arabnews.com%2Fsaudi-arabia%2Fnews%2F664601&psig=AOvVaw3_LHE0e4DkcMYKNBp0kLKz&ust=1597668109148000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNifxOXfn-sCFQAAAAAdAAAAABAD" style="float: left; margin: 20px; height: 55px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arabnews.com%2Fsaudi-arabia%2Fnews%2F664601&psig=AOvVaw3_LHE0e4DkcMYKNBp0kLKz&ust=1597668109148000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNifxOXfn-sCFQAAAAAdAAAAABAD" 
+
 
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Problem](#Problem)
 * [Dataset Description](#Dataset Description )
 * [Data dictionary](#Data dictionary )
-* [Executive summary ](#Executive summary )
-* [Conclusions and recommendation ](#Conclusions and recommendation )
-* [Reference](#Reference)
+* [Executive summary](#Executive summary )
+* [Conclusions and recommendation](#Conclusions and recommendation )
+
 
 
 # Introduction <a name="Introduction"></a>
@@ -17,11 +18,11 @@
 The most common causes of death and injury in Saudi Arabia is by Traffic accidents.
 Traffic accidents are significant reasons for sickness and passing . These mishaps are an intense general medical issue that requires concerted efforts for effective and sustainable prevention.
 
-## Problem <a name="Introduction"></a>
+## Problem <a name="Problem"></a>
 
 Traffic accidents are Increasing in many  region saudi arabia.
 
-### Dataset Description  <a name="Dataset Description"></a>
+### Dataset Description <a name="Dataset Description"></a>
 
 
 Two dataset are given :
