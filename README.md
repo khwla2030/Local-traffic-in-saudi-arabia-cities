@@ -1,4 +1,4 @@
-# Project 1: Driving Licenses, Traffic Accidents and Casualties Analysis
+Driving Licenses, Traffic Accidents and Casualties Analysis
 
  
 
