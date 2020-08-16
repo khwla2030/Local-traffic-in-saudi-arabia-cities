@@ -1,15 +1,15 @@
 # Project 1: Driving Licenses, Traffic Accidents and Casualties Analysis
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arabnews.com%2Fsaudi-arabia%2Fnews%2F664601&psig=AOvVaw3_LHE0e4DkcMYKNBp0kLKz&ust=1597668109148000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNifxOXfn-sCFQAAAAAdAAAAABAD" 
+ 
 
 
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Problem](#Problem)
-* [Dataset Description](#Dataset Description )
-* [Data dictionary](#Data dictionary )
-* [Executive summary](#Executive summary )
-* [Conclusions and recommendation](#Conclusions and recommendation )
+* [Dataset Description](#Dataset-Description )
+* [Data dictionary](#Data-dictionary )
+* [Executive summary](#Executive-summary )
+* [Conclusions and recommendation](#Conclusions-and-recommendation )
 
 
 
